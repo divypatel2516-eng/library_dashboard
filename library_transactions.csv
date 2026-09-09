@@ -1,0 +1,31 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration
+T001,2026-01-03,U01,The Alchemist,Fiction,7
+T002,2026-01-05,U02,Atomic Habits,Self Help,10
+T003,2026-01-08,U03,Harry Potter,Fiction,12
+T004,2026-01-12,U04,The Alchemist,Fiction,8
+T005,2026-01-15,U05,Python Basics,Technology,6
+T006,2026-01-18,U06,Atomic Habits,Self Help,15
+T007,2026-01-21,U01,Harry Potter,Fiction,9
+T008,2026-01-25,U07,Rich Dad Poor Dad,Finance,11
+T009,2026-02-02,U08,The Alchemist,Fiction,5
+T010,2026-02-05,U02,Python Basics,Technology,14
+T011,2026-02-08,U03,Atomic Habits,Self Help,7
+T012,2026-02-11,U09,Harry Potter,Fiction,16
+T013,2026-02-14,U04,Rich Dad Poor Dad,Finance,9
+T014,2026-02-18,U05,The Alchemist,Fiction,13
+T015,2026-02-21,U10,Python Basics,Technology,8
+T016,2026-02-25,U06,Atomic Habits,Self Help,12
+T017,2026-03-01,U01,Harry Potter,Fiction,10
+T018,2026-03-04,U07,The Alchemist,Fiction,6
+T019,2026-03-08,U08,Rich Dad Poor Dad,Finance,14
+T020,2026-03-11,U02,Python Basics,Technology,7
+T021,2026-03-15,U03,Atomic Habits,Self Help,9
+T022,2026-03-18,U09,Harry Potter,Fiction,13
+T023,2026-03-21,U04,The Alchemist,Fiction,10
+T024,2026-03-25,U05,Rich Dad Poor Dad,Finance,8
+T025,2026-04-02,U06,Python Basics,Technology,11
+T026,2026-04-06,U10,Atomic Habits,Self Help,6
+T027,2026-04-10,U01,Harry Potter,Fiction,15
+T028,2026-04-14,U07,The Alchemist,Fiction,7
+T029,2026-04-18,U08,Python Basics,Technology,9
+T030,2026-04-22,U02,Atomic Habits,Self Help,13
